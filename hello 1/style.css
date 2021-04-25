@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(14, 14, 104);
+
+  float: center;
+}
+#contain{
+      margin: 200px auto;
+    width: 600px;
+   text-align: center;
+  }
+
+h1{
+    text-align: center;
+    color: green;
+    margin: auto;
+    
+}
+p{
+    text-align: center;
+    color:white;
+    ;
+}
+td{
+    color: white;
+}
+th{
+    color: white;
+}
+#love{
+    color: white;
+}
